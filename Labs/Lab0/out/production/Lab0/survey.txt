@@ -1,0 +1,17 @@
+Office Hour Preferences:
+As I only have classes on Tuesday and Thursday this semester. I prefer to have office hours anytime on Monday, Wednesday, and Friday.
+
+Values/Goals:
+I want to learn Java and try to make a fancy project using Java after this class so I can put into my resume.
+
+Mac, Windows, or Linux? (MacBook Pro 16, can also run Windows 11 or Linux under Parallels)
+
+Processor; Cores; Clock Speed (M3 Pro, 12 cores, 4.05 GHz)
+
+Model and/or Year issued (2023)
+
+Operating System Version (macOS Sequoia version 15.2)
+
+Random Access Memory (18 GB)
+
+Non-volatile Memory; Remaining Space Available (512 GB, 392.13 GB)
