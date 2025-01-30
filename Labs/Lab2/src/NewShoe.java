@@ -91,6 +91,7 @@ public class NewShoe {
 
   /**
    * Demonstrates the creation of a Shoe object and printing the attributes
+   * @param args Command-line arguments
    */
   public static void main(String[] args) {
     NewShoe shoe1 = new NewShoe(ShoeType.SNEAKER, ShoeColor.RED, ShoeBrand.ADIDAS, 12.0);

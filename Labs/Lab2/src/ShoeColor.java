@@ -1,3 +1,13 @@
+/**
+ * Represents different shoe colors.
+ */
 public enum ShoeColor {
-  BROWN, BLACK, WHITE, RED
+  /** Brown color */
+  BROWN,
+  /** Black color */
+  BLACK,
+  /** White color */
+  WHITE,
+  /** Red color */
+  RED
 }
