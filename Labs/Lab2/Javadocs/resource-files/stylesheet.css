@@ -34,6 +34,7 @@
     --body-background-color: #ffffff;
     --section-background-color: #f8f8f8;
     --detail-background-color: #ffffff;
+    --source-linenumber-color: green;
     /* Colors for navigation bar and table captions */
     --navbar-background-color: #4D7A97;
     --navbar-text-color: #ffffff;
