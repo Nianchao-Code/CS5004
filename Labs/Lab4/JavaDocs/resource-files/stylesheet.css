@@ -25,6 +25,7 @@
     --block-font-size: 14px;
     --code-font-size: 14px;
     --nav-font-size: 13.2px;
+    --source-linenumber-color: green;
     /* Line height for continuous text blocks */
     --block-line-height: 1.4em;
     /* Text colors for body and block elements */
