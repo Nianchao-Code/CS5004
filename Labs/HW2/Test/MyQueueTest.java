@@ -116,14 +116,14 @@ class MyQueueTest {
    */
   @Test
   void isEmpty() {
-    // Assertion 1: New queue should be empty
+    // New queue should be empty (Assertion1)
     assertTrue(stringQueue.isEmpty());
 
     // Add elements and test non-emptiness
     stringQueue.enqueue("Test");
     assertFalse(stringQueue.isEmpty());
 
-    // Assertion 2: Book queue should be empty initially and non-empty after enqueue
+    // Book queue should be empty initially and non-empty after enqueue (Assertion2)
     assertTrue(bookQueue.isEmpty());
     bookQueue.enqueue(book1);
     assertFalse(bookQueue.isEmpty());
