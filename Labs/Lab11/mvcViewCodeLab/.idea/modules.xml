@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MVCExample/src/BasicMVC/BasicMVC.iml" filepath="$PROJECT_DIR$/MVCExample/src/BasicMVC/BasicMVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVCExample/src/GeneralCommandCallbacks/GeneralCommandCallbacks.iml" filepath="$PROJECT_DIR$/MVCExample/src/GeneralCommandCallbacks/GeneralCommandCallbacks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVCExample/src/KeyboardEvents/KeyboardEvents.iml" filepath="$PROJECT_DIR$/MVCExample/src/KeyboardEvents/KeyboardEvents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVCExample/src/KeyboardMaps/KeyboardMaps.iml" filepath="$PROJECT_DIR$/MVCExample/src/KeyboardMaps/KeyboardMaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVCExample/src/KeyboardMapsWithLambdaJava8/KeyboardMapsWithLambdaJava8.iml" filepath="$PROJECT_DIR$/MVCExample/src/KeyboardMapsWithLambdaJava8/KeyboardMapsWithLambdaJava8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVCExample/src/MVCExample.iml" filepath="$PROJECT_DIR$/MVCExample/src/MVCExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TextUI/TextUI.iml" filepath="$PROJECT_DIR$/TextUI/TextUI.iml" />
+    </modules>
+  </component>
+</project>
